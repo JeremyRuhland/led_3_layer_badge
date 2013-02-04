@@ -1,0 +1,9 @@
+Multi-channel RGB LED driver circuit.
+
+Portable, runs off single cell lion battery, built in usb charger.
+Undervoltage protection must be implemented on MCU.
+
+NXP LED driver chip is I2C interfaced and has constant current control.
+Board is designed to drive 9 channels of 4-LED strings using boost supply.
+
+TTL level serial breakout for programing once bootloader has been installed on MCU.

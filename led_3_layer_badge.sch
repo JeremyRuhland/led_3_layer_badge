@@ -10491,18 +10491,16 @@ http://dangerousprototypes.com</description>
 <part name="P+3" library="sparkfun" deviceset="VCC" device=""/>
 <part name="GND2" library="sparkfun" deviceset="GND" device=""/>
 <part name="C1" library="adafruit" deviceset="C-US" device="C1206" value="100n"/>
-<part name="U2" library="sparkfun" deviceset="MCP73831" device=""/>
+<part name="U2" library="sparkfun" deviceset="MCP73831" device="" value="MCP73811"/>
 <part name="CN1" library="adafruit" deviceset="USB" device="MINIB"/>
 <part name="F1" library="sparkfun" deviceset="PTC" device="SMD"/>
 <part name="C2" library="adafruit" deviceset="C-US" device="C1206" value="4.7u"/>
 <part name="C3" library="adafruit" deviceset="C-US" device="C1206" value="4.7"/>
-<part name="R2" library="rcl" deviceset="R-US_" device="R1206" value="2k"/>
 <part name="R3" library="rcl" deviceset="R-US_" device="R1206" value="330"/>
 <part name="LED1" library="adafruit" deviceset="LED" device="SMT1206"/>
 <part name="JP1" library="sparkfun" deviceset="M02" device="-JST-2MM-SMT"/>
 <part name="GND3" library="sparkfun" deviceset="GND" device=""/>
 <part name="GND4" library="sparkfun" deviceset="GND" device=""/>
-<part name="GND5" library="sparkfun" deviceset="GND" device=""/>
 <part name="GND6" library="sparkfun" deviceset="GND" device=""/>
 <part name="GND7" library="sparkfun" deviceset="GND" device=""/>
 <part name="GND8" library="sparkfun" deviceset="GND" device=""/>
@@ -10601,13 +10599,11 @@ http://dangerousprototypes.com</description>
 <instance part="F1" gate="G$1" x="33.02" y="83.82"/>
 <instance part="C2" gate="G$1" x="43.18" y="73.66"/>
 <instance part="C3" gate="G$1" x="99.06" y="73.66"/>
-<instance part="R2" gate="G$1" x="93.98" y="73.66" rot="R270"/>
 <instance part="R3" gate="G$1" x="60.96" y="78.74"/>
 <instance part="LED1" gate="G$1" x="50.8" y="78.74" rot="R90"/>
 <instance part="JP1" gate="G$1" x="114.3" y="83.82" rot="R180"/>
 <instance part="GND3" gate="1" x="43.18" y="63.5"/>
 <instance part="GND4" gate="1" x="88.9" y="63.5"/>
-<instance part="GND5" gate="1" x="93.98" y="63.5"/>
 <instance part="GND6" gate="1" x="99.06" y="63.5"/>
 <instance part="GND7" gate="1" x="104.14" y="63.5"/>
 <instance part="GND8" gate="1" x="30.48" y="63.5"/>
@@ -10783,11 +10779,6 @@ http://dangerousprototypes.com</description>
 <wire x1="86.36" y1="78.74" x2="88.9" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="78.74" x2="88.9" y2="66.04" width="0.1524" layer="91"/>
 <pinref part="GND4" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="93.98" y1="68.58" x2="93.98" y2="66.04" width="0.1524" layer="91"/>
-<pinref part="GND5" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C3" gate="G$1" pin="2"/>
@@ -10978,22 +10969,6 @@ http://dangerousprototypes.com</description>
 <pinref part="F1" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$2" class="0">
-<segment>
-<pinref part="F1" gate="G$1" pin="2"/>
-<pinref part="C2" gate="G$1" pin="1"/>
-<wire x1="40.64" y1="83.82" x2="43.18" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="83.82" x2="43.18" y2="76.2" width="0.1524" layer="91"/>
-<pinref part="LED1" gate="G$1" pin="A"/>
-<wire x1="43.18" y1="83.82" x2="45.72" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="83.82" x2="45.72" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="78.74" x2="48.26" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="U2" gate="G$1" pin="VIN"/>
-<wire x1="45.72" y1="83.82" x2="66.04" y2="83.82" width="0.1524" layer="91"/>
-<junction x="45.72" y="83.82"/>
-<junction x="43.18" y="83.82"/>
-</segment>
-</net>
 <net name="N$4" class="0">
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
@@ -11009,9 +10984,24 @@ http://dangerousprototypes.com</description>
 <net name="N$6" class="0">
 <segment>
 <pinref part="U2" gate="G$1" pin="PROG"/>
-<pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="86.36" y1="81.28" x2="93.98" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="93.98" y1="81.28" x2="93.98" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="81.28" x2="88.9" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="81.28" x2="88.9" y2="91.44" width="0.1524" layer="91"/>
+<pinref part="F1" gate="G$1" pin="2"/>
+<pinref part="C2" gate="G$1" pin="1"/>
+<wire x1="40.64" y1="83.82" x2="43.18" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="83.82" x2="43.18" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="LED1" gate="G$1" pin="A"/>
+<wire x1="43.18" y1="83.82" x2="45.72" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="83.82" x2="45.72" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="78.74" x2="48.26" y2="78.74" width="0.1524" layer="91"/>
+<pinref part="U2" gate="G$1" pin="VIN"/>
+<wire x1="45.72" y1="83.82" x2="63.5" y2="83.82" width="0.1524" layer="91"/>
+<junction x="45.72" y="83.82"/>
+<junction x="43.18" y="83.82"/>
+<wire x1="63.5" y1="83.82" x2="66.04" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="91.44" x2="63.5" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="91.44" x2="63.5" y2="83.82" width="0.1524" layer="91"/>
+<junction x="63.5" y="83.82"/>
 </segment>
 </net>
 <net name="N$9" class="0">

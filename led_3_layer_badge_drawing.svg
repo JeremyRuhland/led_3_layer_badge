@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="850.698"
+   height="459.99094"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="led_3_layer_badge_drawing.svg"
+   inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/led_3_layer_badge_drawing.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5547">
+      <stop
+         style="stop-color:#cfff33;stop-opacity:1;"
+         offset="0"
+         id="stop5549" />
+      <stop
+         style="stop-color:#00ff06;stop-opacity:1"
+         offset="1"
+         id="stop5551" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4105"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4107" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4093">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4095" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4097" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5547"
+       id="linearGradient5723"
+       gradientUnits="userSpaceOnUse"
+       x1="720.16309"
+       y1="561.26044"
+       x2="806.55267"
+       y2="750.66675"
+       gradientTransform="translate(0,5.8309021)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35769659"
+     inkscape:cx="860.422"
+     inkscape:cy="380.25873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1156"
+     inkscape:window-height="908"
+     inkscape:window-x="721"
+     inkscape:window-y="72"
+     inkscape:window-maximized="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.476814,-437.5607)">
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="101.99316"
+       y="887.29675"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="101.99316"
+         y="887.29675"
+         id="tspan2989">Side view</tspan></text>
+    <rect
+       style="color:#000000;fill:#00ff00;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3763"
+       width="8.8957529"
+       height="340.01544"
+       x="162.10036"
+       y="493.92978"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#0000ff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3763-8"
+       width="8.8957529"
+       height="340.01544"
+       x="180.38612"
+       y="493.92978"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#ff0000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3763-6"
+       width="8.8957529"
+       height="340.01544"
+       x="145.7915"
+       y="493.92978"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2.02018499;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3763-6-1"
+       width="8.8957529"
+       height="346.91324"
+       x="127.01159"
+       y="493.69772"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2.24443722;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3808"
+       width="93.359047"
+       height="7.9073358"
+       x="97.874489"
+       y="840.841"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#00ff00;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3810"
+       width="8.4015446"
+       height="2.4710424"
+       x="162.96523"
+       y="836.20776"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#0000ff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3810-6"
+       width="8.4015446"
+       height="2.4710424"
+       x="179.84554"
+       y="836.20776"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#ff0000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3810-1"
+       width="8.4015446"
+       height="2.4710424"
+       x="145.84554"
+       y="836.20776"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2.22728562;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3808-5"
+       width="91.93763"
+       height="7.9073358"
+       x="98.118279"
+       y="484.51663"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#999999;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3873"
+       width="5.9305019"
+       height="158.14671"
+       x="117.04261"
+       y="676.71259"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#999999;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3875"
+       width="11.182662"
+       height="150.96593"
+       x="112.13171"
+       y="516.45087"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2.03123593;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3763-6-1-8"
+       width="8.8957529"
+       height="350.71899"
+       x="98.049141"
+       y="491.16452"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="32.455238"
+       y="574.46094"
+       id="text3906"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3908"
+         x="32.455238"
+         y="574.46094">Batt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="25.466072"
+       y="731.01819"
+       id="text3910"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3912"
+         x="25.466072"
+         y="731.01819">Circuit</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.723811,580.05226 c 1.97878,28.12373 22.34218,24.70535 34.94582,26.55882"
+       id="path3914"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 53.422721,738.70628 c -0.28356,23.40186 29.34059,31.88067 37.74149,36.34365"
+       id="path3916"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="218.36699"
+       y="854.72638"
+       id="text3918"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3920"
+         x="218.36699"
+         y="854.72638">Led rows</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 214.8724,846.33939 c -0.46204,-1.47624 -12.84673,-4.97292 -21.6664,-8.38699"
+       id="path3922"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="236.5388"
+       y="625.48181"
+       id="text3924"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3926"
+         x="236.5388"
+         y="625.48181">lasercut</tspan><tspan
+         sodipodi:role="line"
+         x="236.5388"
+         y="647.98181"
+         id="tspan3928">layers</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 228.15181,625.48183 c -10.01853,-1.74411 -21.86542,-2.59592 -31.45123,-3.49459"
+       id="path3930"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="98.852287"
+       y="461.23648"
+       id="text3932"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3934"
+         x="98.852287"
+         y="461.23648">Acrylic case</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.562041,458.44082 c -15.36094,6.25908 1.01063,14.65411 1.39783,20.26857"
+       id="path3936"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="423.86908"
+       y="887.29675"
+       id="text2985-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="423.86908"
+         y="887.29675"
+         id="tspan2989-6">Rear view</tspan></text>
+    <rect
+       style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3978"
+       width="237.63156"
+       height="367.63"
+       x="349.76328"
+       y="486.35126"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4005"
+       sodipodi:cx="504.09265"
+       sodipodi:cy="522.57068"
+       sodipodi:rx="11.861004"
+       sodipodi:ry="11.861004"
+       d="m 515.95366,522.57068 c 0,6.55065 -5.31036,11.861 -11.86101,11.861 -6.55065,0 -11.861,-5.31035 -11.861,-11.861 0,-6.55065 5.31035,-11.86101 11.861,-11.86101 6.55065,0 11.86101,5.31036 11.86101,11.86101 z"
+       transform="translate(-70.177606,294.74188)"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(-8.8957377,294.74188)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4005-9"
+       sodipodi:cx="504.09265"
+       sodipodi:cy="522.57068"
+       sodipodi:rx="11.861004"
+       sodipodi:ry="11.861004"
+       d="m 515.95366,522.57068 c 0,6.55065 -5.31036,11.861 -11.86101,11.861 -6.55065,0 -11.861,-5.31035 -11.861,-11.861 0,-6.55065 5.31035,-11.86101 11.861,-11.86101 6.55065,0 11.86101,5.31036 11.86101,11.86101 z"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="416.88034"
+       y="796.21606"
+       id="text4025"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4027"
+         x="416.88034"
+         y="796.21606"
+         style="fill:#ffffff">Pwr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="473.10428"
+       y="795.96118"
+       id="text4029"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4031"
+         x="473.10428"
+         y="795.96118"
+         style="fill:#ffffff">Mode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="690.46942"
+       y="887.29675"
+       id="text2985-4-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="690.46942"
+         y="887.29675"
+         id="tspan2989-6-5">Front view</tspan></text>
+    <rect
+       style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3978-0"
+       width="237.63156"
+       height="367.63"
+       x="618.54327"
+       y="486.35126"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="color:#000000;fill:#333333;stroke:#000000;stroke-width:1.90180922;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3978-0-6"
+       width="222.97731"
+       height="354.26505"
+       x="625.87042"
+       y="493.03372"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="705.90552"
+       y="638.84326"
+       id="text4077"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4079"
+         x="705.90552"
+         y="638.84326"
+         style="fill:#ff0000">Image</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="698.28101"
+       y="680.07935"
+       id="text4081"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4083"
+         x="698.28101"
+         y="680.07935"
+         style="fill:#00ff00">Floating</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="712.74341"
+       y="708.73492"
+       id="text4085"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4087"
+         x="712.74341"
+         y="708.73492"
+         style="fill:#0000ff">Here</tspan></text>
+    <path
+       style="fill:none;stroke:url(#linearGradient5723);stroke-opacity:1"
+       d="M 803.36682,646.45624 C 759.94579,543.55775 663.86485,577.82178 688.74453,597.5321 c 22.31507,17.67857 5.1886,36.18171 -9.08591,55.21439 -102.10749,136.14331 167.12922,96.60825 123.7082,-6.29025 z"
+       id="path4091"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssz"
+       inkscape:export-filename="/home/jeremy/Desktop/led_3_layer_badge/path3936.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>
